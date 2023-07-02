@@ -4,4 +4,3 @@
 
   Throughout the course, students create web applications that confront real-world problems and begin to deeply understand the capabilities of the technology. The module ends with the development and protection of their own web applications, which is the first step towards starting their career as software developers.
 
-
